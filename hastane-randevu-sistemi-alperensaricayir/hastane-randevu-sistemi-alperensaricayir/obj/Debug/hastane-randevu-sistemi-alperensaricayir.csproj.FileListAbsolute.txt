@@ -1,0 +1,9 @@
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\bin\Debug\hastane-randevu-sistemi-alperensaricayir.exe.config
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\bin\Debug\hastane-randevu-sistemi-alperensaricayir.exe
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\bin\Debug\hastane-randevu-sistemi-alperensaricayir.pdb
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\obj\Debug\hastane-randevu-sistemi-alperensaricayir.csprojResolveAssemblyReference.cache
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\obj\Debug\hastane_randevu_sistemi_alperensaricayir.Form1.resources
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\obj\Debug\hastane_randevu_sistemi_alperensaricayir.Properties.Resources.resources
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\obj\Debug\hastane-randevu-sistemi-alperensaricayir.csproj.GenerateResource.Cache
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\obj\Debug\hastane-randevu-sistemi-alperensaricayir.exe
+C:\Users\memos\OneDrive\Masaüstü\hastane-randevu-sistemi-alperensaricayir\hastane-randevu-sistemi-alperensaricayir\obj\Debug\hastane-randevu-sistemi-alperensaricayir.pdb
